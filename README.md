@@ -34,7 +34,7 @@
 
 
 ## 📫 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/navneet-pratap-961519300/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NavneetPratap-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-pratap-961519300/)
 📧 Email: pratap102718@gmail.com
 
 ---
