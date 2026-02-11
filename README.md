@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Currently learning Machine Learning & Web Development  
+- 🌱 Interested learning Machine Learning & Web Development  
 - 💡 Interested in Trading Algorithms, AI Projects, and Open-Source  
 - 🔭 Building projects that make life easier  
 - ⚡ Fun fact: I love solving problems step-by-step!  
